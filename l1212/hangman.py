@@ -71,4 +71,15 @@ def getRandomWord(wordList):
 # print(getRandomWord(words)) <- проверить, что функция работает
 def displayBoard(errorLetters, correctLetters, secretWord):
     """Отображает игровое поле игры 'Виселица'"""
+    print(HANGMANPICS[len(errorLetters)])
+    print('Неправильные буквы: ')
+    for letter in errorLetters:
+        print(letter, end=' ')
+    print()
+
+    blanks = '_' * len(secretWord)
+
+
+
+displayBoard('efd', None, 'monkey')
 
