@@ -87,3 +87,17 @@ def displayBoard(errorLetters, correctLetters, secretWord):
 
     print()
 
+
+def getGuess(alreadyGuessed):
+    """Возвращает букву, введенную игроком. Проверяет, что была введена только 1 буква"""
+    while True:
+        guess = input('Введите букву: ').lower()
+
+        if len(guess) != 1:  # если буква не одна
+            print('Введите ОДНУ букву!')
+        elif guess in alreadyGuessed:  # если угадана
+            print('Вы уже называли эту букву!')
+        elif guess.isdigit() or guess.isspace():  # если число или пробел
+            print('Введите одну БУКВУ')
+        else:
+            return guess

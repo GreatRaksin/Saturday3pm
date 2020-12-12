@@ -175,7 +175,7 @@
       <workItem from="1606640896234" duration="1000" />
       <workItem from="1607169843826" duration="1214000" />
       <workItem from="1607171132054" duration="5495000" />
-      <workItem from="1607774651745" duration="4938000" />
+      <workItem from="1607774651745" duration="5489000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607779120030</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finishing displayBorad() function">
+      <created>1607779828916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607779828916</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,13 +231,14 @@
     <MESSAGE value="finishing getRandomWord() function, that returns a word from words list" />
     <MESSAGE value="adding displayBoard() function" />
     <MESSAGE value="adding missedLetters displaying" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding missedLetters displaying" />
+    <MESSAGE value="Finishing displayBorad() function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing displayBorad() function" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="820" y="83" key="CommitChangelistDialog2" timestamp="1607779118387">
+    <state x="820" y="83" key="CommitChangelistDialog2" timestamp="1607779827482">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
-    <state x="820" y="83" key="CommitChangelistDialog2/0.25.1920.994@0.25.1920.994" timestamp="1607779118387" />
+    <state x="820" y="83" key="CommitChangelistDialog2/0.25.1920.994@0.25.1920.994" timestamp="1607779827482" />
     <state x="1080" y="250" key="Github.ShareDialog" timestamp="1607777933569">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
