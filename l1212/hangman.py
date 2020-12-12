@@ -78,8 +78,12 @@ def displayBoard(errorLetters, correctLetters, secretWord):
     print()
 
     blanks = '_' * len(secretWord)
+    for letter in range(len(secretWord)):
+        if secretWord[letter] in correctLetters:
+            blanks = blanks[:letter] + secretWord[letter] + blanks[letter + 1:]
 
+    for letter in blanks:
+        print(letter, end=' ')
 
-
-displayBoard('efd', None, 'monkey')
+    print()
 
