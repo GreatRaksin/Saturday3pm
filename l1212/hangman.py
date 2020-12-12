@@ -101,3 +101,8 @@ def getGuess(alreadyGuessed):
             print('Введите одну БУКВУ')
         else:
             return guess
+
+
+def playAgain():
+    """Возвращает TRUE, если игрок хочет играть еще"""
+    return input('Хотите сыграть еще раз? ').lower().startswith(('д', 'l', 'y'))
