@@ -106,3 +106,27 @@ def getGuess(alreadyGuessed):
 def playAgain():
     """Возвращает TRUE, если игрок хочет играть еще"""
     return input('Хотите сыграть еще раз? ').lower().startswith(('д', 'l', 'y'))
+
+
+errorLetters = ''
+correctLetters = ''
+secretWord = getRandomWord(words)
+gameIsDone = False
+
+while True:
+    displayBoard(errorLetters, correctLetters, secretWord)
+
+    guess = getGuess(errorLetters + correctLetters)
+    if guess in secretWord:
+        correctLetters += guess
+
+        foundAllLetters = True
+        for i in range(len(secretWord)):
+            if secretWord[i] not in correctLetters:
+                foundAllLetters = False
+                break
+        if foundAllLetters:
+            print(f'Вы угадали! Это было слово {secretWord}.')
+            gameIsDone = True
+    else:
+        errorLetters += guess
