@@ -86,6 +86,10 @@ def displayBoard(errorLetters, correctLetters, secretWord):
         print(letter, end=' ')
 
     print()
+    if len(errorLetters) == len(HANGMANPICS) - 1:
+        print(
+            f'Все попытки исчерпаны. Не угадано {len(errorLetters)}, угадано {len(correctLetters)}.\nБыло загадано {secretWord}.')
+
 
 
 def getGuess(alreadyGuessed):
@@ -131,7 +135,5 @@ while True:
     else:
         errorLetters += guess
 
-        if len(errorLetters) == len(HANGMANPICS) - 1:
-            displayBoard(errorLetters, correctLetters, secretWord)
-            print(f'Все попытки исчерпаны. Не угадано {len(errorLetters)}, угадано {len(correctLetters)}.\nБыло загадано {secretWord}.')
+
 
