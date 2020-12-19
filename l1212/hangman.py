@@ -130,3 +130,8 @@ while True:
             gameIsDone = True
     else:
         errorLetters += guess
+
+        if len(errorLetters) == len(HANGMANPICS) - 1:
+            displayBoard(errorLetters, correctLetters, secretWord)
+            print(f'Все попытки исчерпаны. Не угадано {len(errorLetters)}, угадано {len(correctLetters)}.\nБыло загадано {secretWord}.')
+
