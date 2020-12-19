@@ -65,7 +65,7 @@ words = ('ant baboon badger bat bear beaver camel cat clam cobra cougar '
 def getRandomWord(wordList):
     """Возвращает случайно выбранное слово из списка слов"""
     wordIndex = randint(0, len(wordList) - 1)
-    return wordList[wordIndex]
+    return 'cat'
 
 
 # print(getRandomWord(words)) <- проверить, что функция работает
@@ -86,9 +86,6 @@ def displayBoard(errorLetters, correctLetters, secretWord):
         print(letter, end=' ')
 
     print()
-    if len(errorLetters) == len(HANGMANPICS) - 1:
-        print(
-            f'Все попытки исчерпаны. Не угадано {len(errorLetters)}, угадано {len(correctLetters)}.\nБыло загадано {secretWord}.')
 
 
 
@@ -134,6 +131,10 @@ while True:
             gameIsDone = True
     else:
         errorLetters += guess
+        if len(errorLetters) == len(HANGMANPICS) - 1:
+            displayBoard(HANGMANPICS, errorLetters, correctLetters, secretWord)
+            print(f'Ошибок: {len(errorLetters)}, правильных: {len(correctLetters)}, слово: {secretWord}')
+            gameIsDone = True
 
 
 
