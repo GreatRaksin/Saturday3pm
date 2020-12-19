@@ -65,7 +65,7 @@ words = ('ant baboon badger bat bear beaver camel cat clam cobra cougar '
 def getRandomWord(wordList):
     """Возвращает случайно выбранное слово из списка слов"""
     wordIndex = randint(0, len(wordList) - 1)
-    return 'cat'
+    return words[wordIndex]
 
 
 # print(getRandomWord(words)) <- проверить, что функция работает
