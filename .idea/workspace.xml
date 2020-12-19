@@ -20,6 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="finishing game. counting errors">
+      <change afterPath="$PROJECT_DIR$/l1912/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1912/excelchik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1912/fizzbuzzgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1912/nums.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1912/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1912/theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1912/working_with_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/l1212/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/l1212/hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +62,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.hangman">
-    <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.excelchik">
+    <configuration name="excelchik" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l0512" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l0512/arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/excelchik.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fizzbuzzgame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1212" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1212/functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/fizzbuzzgame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1212" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1212/hangman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="theory (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l0512" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l0512/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/theory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="working_with_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1212" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1212/theory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/working_with_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hangman" />
-        <item itemvalue="Python.functions" />
-        <item itemvalue="Python.theory" />
-        <item itemvalue="Python.arrays" />
-        <item itemvalue="Python.pizza" />
+        <item itemvalue="Python.excelchik" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.working_with_files" />
+        <item itemvalue="Python.fizzbuzzgame" />
+        <item itemvalue="Python.theory (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +202,7 @@
       <workItem from="1607169843826" duration="1214000" />
       <workItem from="1607171132054" duration="5495000" />
       <workItem from="1607774651745" duration="8298000" />
-      <workItem from="1608378974287" duration="2516000" />
+      <workItem from="1608378974287" duration="7310000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -273,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608380612247</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="finishing game. counting errors">
+      <created>1608381565833</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608381565833</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finishing game. counting errors">
+      <created>1608381605267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608381605267</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,34 +333,34 @@
       <screen x="0" y="25" width="1920" height="994" />
     </state>
     <state x="1080" y="250" key="Github.ShareDialog/0.25.1920.994@0.25.1920.994" timestamp="1607777933569" />
-    <state width="1878" height="671" key="GridCell.Tab.0.bottom" timestamp="1608381362416">
+    <state width="1878" height="223" key="GridCell.Tab.0.bottom" timestamp="1608385789038">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
     <state width="1638" height="236" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1602944755072" />
     <state width="1878" height="378" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1603551325023" />
     <state width="1638" height="289" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1608379039573" />
-    <state width="1878" height="671" key="GridCell.Tab.0.bottom/0.25.1920.994@0.25.1920.994" timestamp="1608381362416" />
-    <state width="1878" height="671" key="GridCell.Tab.0.center" timestamp="1608381362415">
+    <state width="1878" height="223" key="GridCell.Tab.0.bottom/0.25.1920.994@0.25.1920.994" timestamp="1608385789038" />
+    <state width="1878" height="223" key="GridCell.Tab.0.center" timestamp="1608385789036">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
     <state width="1638" height="236" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1602944755072" />
     <state width="1878" height="378" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1603551325023" />
     <state width="1638" height="289" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1608379039572" />
-    <state width="1878" height="671" key="GridCell.Tab.0.center/0.25.1920.994@0.25.1920.994" timestamp="1608381362415" />
-    <state width="1878" height="671" key="GridCell.Tab.0.left" timestamp="1608381362414">
+    <state width="1878" height="223" key="GridCell.Tab.0.center/0.25.1920.994@0.25.1920.994" timestamp="1608385789036" />
+    <state width="1878" height="223" key="GridCell.Tab.0.left" timestamp="1608385789035">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
     <state width="1638" height="236" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1602944755071" />
     <state width="1878" height="378" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1603551325022" />
     <state width="1638" height="289" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1608379039572" />
-    <state width="1878" height="671" key="GridCell.Tab.0.left/0.25.1920.994@0.25.1920.994" timestamp="1608381362414" />
-    <state width="1878" height="671" key="GridCell.Tab.0.right" timestamp="1608381362415">
+    <state width="1878" height="223" key="GridCell.Tab.0.left/0.25.1920.994@0.25.1920.994" timestamp="1608385789035" />
+    <state width="1878" height="223" key="GridCell.Tab.0.right" timestamp="1608385789037">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
     <state width="1638" height="236" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1602944755072" />
     <state width="1878" height="378" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1603551325023" />
     <state width="1638" height="289" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1608379039572" />
-    <state width="1878" height="671" key="GridCell.Tab.0.right/0.25.1920.994@0.25.1920.994" timestamp="1608381362415" />
+    <state width="1878" height="223" key="GridCell.Tab.0.right/0.25.1920.994@0.25.1920.994" timestamp="1608385789037" />
     <state width="1878" height="330" key="GridCell.Tab.1.bottom" timestamp="1606570444191">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
@@ -359,33 +381,37 @@
       <screen x="0" y="25" width="1920" height="994" />
     </state>
     <state x="1020" y="35" width="900" height="728" key="SettingsEditor/0.25.1920.994@0.25.1920.994" timestamp="1607171170627" />
-    <state x="560" y="259" key="Vcs.Push.Dialog.v2" timestamp="1608380615165">
+    <state x="560" y="259" key="Vcs.Push.Dialog.v2" timestamp="1608381606943">
       <screen x="0" y="25" width="1920" height="994" />
     </state>
-    <state x="560" y="259" key="Vcs.Push.Dialog.v2/0.25.1920.994@0.25.1920.994" timestamp="1608380615165" />
+    <state x="560" y="259" key="Vcs.Push.Dialog.v2/0.25.1920.994@0.25.1920.994" timestamp="1608381606943" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Saturday3pm$pizza.coverage" NAME="pizza Coverage Results" MODIFIED="1607175536087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1608381350786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1602942680564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$jumoSearch.coverage" NAME="jumoSearch Coverage Results" MODIFIED="1606570436422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1608381983543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1608385786551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
     <SUITE FILE_PATH="coverage/Saturday3pm$dict.coverage" NAME="dict Coverage Results" MODIFIED="1603546269732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1710" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1606565280955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$stars.coverage" NAME="stars Coverage Results" MODIFIED="1607174532009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$nested_loops.coverage" NAME="nested_loops Coverage Results" MODIFIED="1607173528170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$mastery.coverage" NAME="mastery Coverage Results" MODIFIED="1606572621534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$binary.coverage" NAME="binary Coverage Results" MODIFIED="1606568028078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$theory.coverage" NAME="theory Coverage Results" MODIFIED="1607775450733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1606572475458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$excelchik.coverage" NAME="excelchik Coverage Results" MODIFIED="1608386465444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$mm.coverage" NAME="mm Coverage Results" MODIFIED="1603543919963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$working_with_files.coverage" NAME="working_with_files Coverage Results" MODIFIED="1608385044610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$linear.coverage" NAME="linear Coverage Results" MODIFIED="1606565933818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1603546274026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$functions.coverage" NAME="functions Coverage Results" MODIFIED="1607777475611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$pizza.coverage" NAME="pizza Coverage Results" MODIFIED="1607175536087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$jumoSearch.coverage" NAME="jumoSearch Coverage Results" MODIFIED="1606570436422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$fizzbuzzgame.coverage" NAME="fizzbuzzgame Coverage Results" MODIFIED="1608383679160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
     <SUITE FILE_PATH="coverage/Saturday3pm$practice.coverage" NAME="practice Coverage Results" MODIFIED="1602939079548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1710" />
     <SUITE FILE_PATH="coverage/Saturday3pm$string2.coverage" NAME="string2 Coverage Results" MODIFIED="1603544101490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1603545485243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1603547503077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$membership.coverage" NAME="membership Coverage Results" MODIFIED="1606565466445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$nested_loops.coverage" NAME="nested_loops Coverage Results" MODIFIED="1607173528170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
     <SUITE FILE_PATH="coverage/Saturday3pm$arrays.coverage" NAME="arrays Coverage Results" MODIFIED="1607176346134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$mastery.coverage" NAME="mastery Coverage Results" MODIFIED="1606572621534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$binary.coverage" NAME="binary Coverage Results" MODIFIED="1606568028078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$theory.coverage" NAME="theory Coverage Results" MODIFIED="1607775450733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1606572475458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$mm.coverage" NAME="mm Coverage Results" MODIFIED="1603543919963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$linear.coverage" NAME="linear Coverage Results" MODIFIED="1606565933818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1603546274026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$functions.coverage" NAME="functions Coverage Results" MODIFIED="1607777475611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$theory__1_.coverage" NAME="theory (1) Coverage Results" MODIFIED="1608383664361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
   </component>
 </project>

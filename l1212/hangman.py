@@ -136,5 +136,14 @@ while True:
             print(f'Ошибок: {len(errorLetters)}, правильных: {len(correctLetters)}, слово: {secretWord}')
             gameIsDone = True
 
+    if gameIsDone:
+        if playAgain():
+            errorLetters = ''
+            correctLetters = ''
+            gameIsDone = False
+            secretWord = getRandomWord(words)
+    else:
+        break
+
 
 
