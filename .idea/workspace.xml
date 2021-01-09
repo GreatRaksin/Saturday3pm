@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Starting template tkinter app">
-      <change afterPath="$PROJECT_DIR$/0901/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0901/pillow_lesson.py" afterDir="false" />
+    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding pillow theory">
+      <change afterPath="$PROJECT_DIR$/0901/resized.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0901/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/0901/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0901/pillow_lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/0901/pillow_lesson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +209,7 @@
       <workItem from="1607774651745" duration="8298000" />
       <workItem from="1608378974287" duration="7566000" />
       <workItem from="1610193925995" duration="3472000" />
+      <workItem from="1610198093702" duration="1904000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -316,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610196353846</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adding pillow theory">
+      <created>1610198113570</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610198113570</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +353,8 @@
     <MESSAGE value="finishing game. counting errors" />
     <MESSAGE value="Adding working with file lesson" />
     <MESSAGE value="Starting template tkinter app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting template tkinter app" />
+    <MESSAGE value="Adding pillow theory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding pillow theory" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Saturday3pm$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1608381983543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
@@ -362,7 +370,7 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$mm.coverage" NAME="mm Coverage Results" MODIFIED="1603543919963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1608385786551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
     <SUITE FILE_PATH="coverage/Saturday3pm$string2.coverage" NAME="string2 Coverage Results" MODIFIED="1603544101490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$pillow_lesson.coverage" NAME="pillow_lesson Coverage Results" MODIFIED="1610197443047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0901" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$pillow_lesson.coverage" NAME="pillow_lesson Coverage Results" MODIFIED="1610199575071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0901" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1606565280955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$fizzbuzzgame.coverage" NAME="fizzbuzzgame Coverage Results" MODIFIED="1608383679160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
     <SUITE FILE_PATH="coverage/Saturday3pm$theory.coverage" NAME="theory Coverage Results" MODIFIED="1607775450733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
