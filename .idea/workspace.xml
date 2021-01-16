@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding first file for gui lesson">
+    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding infromation about textarea">
+      <change afterPath="$PROJECT_DIR$/1602/frames_tkinter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1602/gui_less.py" beforeDir="false" afterPath="$PROJECT_DIR$/1602/gui_less.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <recent name="$PROJECT_DIR$/0901" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gui_less">
+  <component name="RunManager" selected="Python.frames_tkinter">
     <configuration name="excelchik" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +81,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/excelchik.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="frames_tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Saturday3pm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1602" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1602/frames_tkinter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,35 +177,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Saturday3pm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/l1912" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l1912/task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.frames_tkinter" />
         <item itemvalue="Python.gui_less" />
         <item itemvalue="Python.pillow_lesson" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.excelchik" />
-        <item itemvalue="Python.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,7 @@
       <workItem from="1608378974287" duration="7566000" />
       <workItem from="1610193925995" duration="3472000" />
       <workItem from="1610198093702" duration="2055000" />
-      <workItem from="1610798655986" duration="1713000" />
+      <workItem from="1610798655986" duration="3599000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -337,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610798727535</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Adding infromation about textarea">
+      <created>1610800403290</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610800403290</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +376,8 @@
     <MESSAGE value="Starting template tkinter app" />
     <MESSAGE value="Adding pillow theory" />
     <MESSAGE value="Adding first file for gui lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding first file for gui lesson" />
+    <MESSAGE value="Adding infromation about textarea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding infromation about textarea" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Saturday3pm$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1608381983543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
@@ -394,6 +402,7 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$linear.coverage" NAME="linear Coverage Results" MODIFIED="1606565933818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
     <SUITE FILE_PATH="coverage/Saturday3pm$practice.coverage" NAME="practice Coverage Results" MODIFIED="1602939079548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1710" />
     <SUITE FILE_PATH="coverage/Saturday3pm$dict.coverage" NAME="dict Coverage Results" MODIFIED="1603546269732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1710" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$frames_tkinter.coverage" NAME="frames_tkinter Coverage Results" MODIFIED="1610801981389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1603546274026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$stars.coverage" NAME="stars Coverage Results" MODIFIED="1607174532009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
     <SUITE FILE_PATH="coverage/Saturday3pm$excelchik.coverage" NAME="excelchik Coverage Results" MODIFIED="1608386465444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
