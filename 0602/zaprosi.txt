@@ -1,0 +1,19 @@
+-- project table
+
+CREATE TABLE IF NOT EXISTS projects (
+    id integer PRIMARY KEY,
+    name text NOT NULL,
+    begin_date datetime,
+    end_date datetime
+)
+
+-- tasks table
+CREATE TABLE IF NOT EXISTS tasks (
+    id integer PRIMARY KEY,
+    name text NOT NULL,
+    project_id integer NOT NULL,
+    status_id integer NULL,
+    begin_date datetime,
+    end_date datetime
+    FOREIGN KEY (project_id) REFERENCE projects (id)
+)

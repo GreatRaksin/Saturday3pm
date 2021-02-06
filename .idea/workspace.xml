@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Ending postal form code">
-      <change afterPath="$PROJECT_DIR$/0602/t_1_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0602/t_2_try-except.py" afterDir="false" />
+    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding try_except and functions theory🐋💨">
+      <change afterPath="$PROJECT_DIR$/0602/zaprosi.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1602/frames_tkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1601/frames_tkinter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1602/grid_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/1601/grid_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1602/gui_less.py" beforeDir="false" afterPath="$PROJECT_DIR$/1601/gui_less.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1602/place_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/1601/place_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1602/postal_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/1601/postal_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602/t_3_databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/0602/t_3_databases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +67,7 @@
       <recent name="$PROJECT_DIR$/0901" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.t_2_try-except">
+  <component name="RunManager" selected="Python.t_3_databases">
     <configuration name="grid_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,28 +82,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1602/grid_method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="place_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Saturday3pm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1602" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1602/place_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,13 +156,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="t_3_databases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Saturday3pm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0602" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0602/t_3_databases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.t_3_databases" />
         <item itemvalue="Python.t_2_try-except" />
         <item itemvalue="Python.t_1_functions" />
         <item itemvalue="Python.postal_form" />
         <item itemvalue="Python.grid_method" />
-        <item itemvalue="Python.place_method" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +211,7 @@
       <workItem from="1610193925995" duration="3472000" />
       <workItem from="1610198093702" duration="2055000" />
       <workItem from="1610798655986" duration="7521000" />
-      <workItem from="1612612601906" duration="4016000" />
+      <workItem from="1612612601906" duration="5401000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -393,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610805772158</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Adding try_except and functions theory🐋💨">
+      <created>1612616985561</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1612616985561</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,12 +434,14 @@
     <MESSAGE value="Starting template" />
     <MESSAGE value="Ending grid" />
     <MESSAGE value="Ending postal form code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ending postal form code" />
+    <MESSAGE value="Adding try_except and functions theory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding try_except and functions theory" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Saturday3pm$t_1_functions.coverage" NAME="t_1_functions Coverage Results" MODIFIED="1612616080621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1608381983543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
     <SUITE FILE_PATH="coverage/Saturday3pm$nested_loops.coverage" NAME="nested_loops Coverage Results" MODIFIED="1607173528170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$t_3_databases.coverage" NAME="t_3_databases Coverage Results" MODIFIED="1612617906272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$pizza.coverage" NAME="pizza Coverage Results" MODIFIED="1607175536087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1603547503077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$membership.coverage" NAME="membership Coverage Results" MODIFIED="1606565466445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
