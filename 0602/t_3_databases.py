@@ -31,3 +31,31 @@ def create_table(conn, create_table_SQL):
         c.execute(create_table_SQL)  # если получается, направляю запрос через .execute()
     except Error as e:
         print(e)
+
+
+db = '/Users/demidraksin/PycharmProjects/Saturday3pm/0602/test.db'
+create_projects_table = '''CREATE TABLE IF NOT EXISTS projects (
+    id integer PRIMARY KEY,
+    name text NOT NULL,
+    begin_date datetime,
+    end_date datetime
+)
+'''
+create_tasks_table = '''CREATE TABLE IF NOT EXISTS tasks (
+    id integer PRIMARY KEY,
+    name text NOT NULL,
+    project_id integer NOT NULL,
+    status_id integer NOT NULL,
+    begin_date datetime,
+    end_date datetime,
+    FOREIGN KEY (project_id) REFERENCES projects (id)
+)'''
+
+conn = create_connection(db)
+
+# создаем таблицы в БД
+if conn is not None:
+    create_table(conn, create_projects_table)
+    create_table(conn, create_tasks_table)
+else:
+    print('Ошибка! Не получилось создать подключение к БД')
