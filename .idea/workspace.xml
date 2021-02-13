@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Reformatting database connection function, adding create table function🦠">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0602/t_3_databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/0602/t_3_databases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +213,8 @@
       <workItem from="1610193925995" duration="3472000" />
       <workItem from="1610198093702" duration="2055000" />
       <workItem from="1610798655986" duration="7521000" />
-      <workItem from="1612612601906" duration="7258000" />
+      <workItem from="1612612601906" duration="7911000" />
+      <workItem from="1613218506379" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -411,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612618944546</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Reformatting database connection function, adding create table function🦠">
+      <created>1612620173715</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1612620173715</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
