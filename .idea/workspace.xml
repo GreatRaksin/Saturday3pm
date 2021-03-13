@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="⚠️Adding dictionaries theory⚠️">
-      <change afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/03_what_request_is.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1303_dictionaries/00_dictionaries_theory.py" beforeDir="false" afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/00_dictionaries_theory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1303_dictionaries/01_dictionaries_theory.py" beforeDir="false" afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/01_dictionaries_theory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1303_dictionaries/02_dict_and_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/02_dict_and_loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Renaming lesson directory">
+      <change afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/github.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/gr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1303_dictionaries_and_JSON/03_what_request_is.py" beforeDir="false" afterPath="$PROJECT_DIR$/1303_dictionaries_and_JSON/03_what_request_is.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <recent name="$PROJECT_DIR$/0901" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_dict_and_loops">
+  <component name="RunManager" selected="Python.03_what_request_is">
     <configuration name="00_dictionaries_theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +138,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="03_what_request_is" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Saturday3pm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1303_dictionaries_and_JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1303_dictionaries_and_JSON/03_what_request_is.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="t_1_database_create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,35 +182,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t_3_databases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Saturday3pm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0602" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0602/t_3_databases.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_what_request_is" />
         <item itemvalue="Python.02_dict_and_loops" />
         <item itemvalue="Python.01_dictionaries_theory" />
         <item itemvalue="Python.00_dictionaries_theory" />
         <item itemvalue="Python.t_1_database_create" />
-        <item itemvalue="Python.t_3_databases" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +218,7 @@
       <workItem from="1612612601906" duration="7911000" />
       <workItem from="1613218506379" duration="218000" />
       <workItem from="1613218910594" duration="5944000" />
-      <workItem from="1615639223265" duration="2293000" />
+      <workItem from="1615639223265" duration="4416000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -452,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615641170245</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Renaming lesson directory">
+      <created>1615641566452</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1615641566452</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding hangman code" />
     <MESSAGE value="finishing getRandomWord() function, that returns a word from words list" />
     <MESSAGE value="adding displayBoard() function" />
     <MESSAGE value="adding missedLetters displaying" />
@@ -496,11 +501,13 @@
     <MESSAGE value="Reformatting ignorance⭐️☘️" />
     <MESSAGE value="Adding C,R,U functions of CRUD" />
     <MESSAGE value="⚠️Adding dictionaries theory⚠️" />
-    <option name="LAST_COMMIT_MESSAGE" value="⚠️Adding dictionaries theory⚠️" />
+    <MESSAGE value="Renaming lesson directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming lesson directory" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Saturday3pm$t_1_functions.coverage" NAME="t_1_functions Coverage Results" MODIFIED="1612616080621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1608381983543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1212" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$03_what_request_is.coverage" NAME="03_what_request_is Coverage Results" MODIFIED="1615643606008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1303_dictionaries_and_JSON" />
     <SUITE FILE_PATH="coverage/Saturday3pm$nested_loops.coverage" NAME="nested_loops Coverage Results" MODIFIED="1607173528170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
     <SUITE FILE_PATH="coverage/Saturday3pm$t_3_databases.coverage" NAME="t_3_databases Coverage Results" MODIFIED="1613220059958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$pizza.coverage" NAME="pizza Coverage Results" MODIFIED="1607175536087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
