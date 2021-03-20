@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<todos>
+    <user>
+        <completed>false</completed>
+        <id>1</id>
+        <title>delectus aut autem</title>
+        <userId>1</userId>
+    </user>
+    <user>
+        <completed>false</completed>
+        <id>2</id>
+        <title>quis ut nam facilis et officia qui</title>
+        <userId>1</userId>
+    </user>
+    <user>
+        <completed>false</completed>
+        <id>3</id>
+        <title>fugiat veniam minus</title>
+        <userId>1</userId>
+    </user>
+    <user>
+        <completed>true</completed>
+        <id>4</id>
+        <title>et porro tempora</title>
+        <userId>1</userId>
+    </user>
+</todos>
