@@ -26,8 +26,7 @@ def normalize_phone_number(phone):
 
 def insert_into_db(phone, connection):
     cur = connection.cursor()
-    query = '''INSERT INTO phones (number) 
-    VALUES (?)'''
+    query = '''INSERT INTO phones (number) VALUES (?)'''
     cur.execute(query, (phone,))
     connection.commit()
     connection.close()
@@ -36,4 +35,7 @@ def insert_into_db(phone, connection):
 phone = input('Введите номер телефона (без пробелов): ')
 
 normal = normalize_phone_number(phone)
-insert_into_db(normal, db)
+print(insert_into_db(normal, db))
+
+print(insert_into_db)
+print(normalize_phone_number)
