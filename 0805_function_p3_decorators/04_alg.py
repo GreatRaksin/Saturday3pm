@@ -34,7 +34,10 @@ def binary(arr, val):
     return mid
 
 
-@time
-def dummy_f():
+@timer
+def dummy_f(num_times):
+    for _ in range(num_times):
+        sum([i ** 2 for i in range(1000)])
 
-print(binary(array, 300))
+
+dummy_f(10000)
