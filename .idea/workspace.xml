@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding decorators part3🤓">
-      <change afterPath="$PROJECT_DIR$/1505_functions_p4/00_hw_solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding homework solution. Datetime✅">
+      <change afterPath="$PROJECT_DIR$/1505_functions_p4/01_functional_programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1505_functions_p4/02_functional_vs_linear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1505_functions_p4/03_filter_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1505_functions_p4/04_reduce_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1505_functions_p4/05_zip_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1505_functions_p4/06_hash_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +75,8 @@
       <recent name="$PROJECT_DIR$/0901" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.00_hw_solution">
-    <configuration name="00_hw_solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_hash_function">
+    <configuration name="02_functional_vs_linear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1505_functions_p4/00_hw_solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1505_functions_p4/02_functional_vs_linear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_functions_with_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_filter_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +106,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0805_function_p3_decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1505_functions_p4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0805_function_p3_decorators/01_functions_with_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1505_functions_p4/03_filter_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_datetime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_reduce_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +128,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0805_function_p3_decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1505_functions_p4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0805_function_p3_decorators/02_datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1505_functions_p4/04_reduce_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_datetime_decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_zip_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0805_function_p3_decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1505_functions_p4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0805_function_p3_decorators/03_datetime_decorators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1505_functions_p4/05_zip_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_alg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_hash_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Saturday3pm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0805_function_p3_decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1505_functions_p4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0805_function_p3_decorators/04_alg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1505_functions_p4/06_hash_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00_hw_solution" />
-        <item itemvalue="Python.04_alg" />
-        <item itemvalue="Python.03_datetime_decorators" />
-        <item itemvalue="Python.02_datetime" />
-        <item itemvalue="Python.01_functions_with_args" />
+        <item itemvalue="Python.06_hash_function" />
+        <item itemvalue="Python.05_zip_function" />
+        <item itemvalue="Python.04_reduce_function" />
+        <item itemvalue="Python.03_filter_function" />
+        <item itemvalue="Python.02_functional_vs_linear" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +229,7 @@
       <workItem from="1618661012353" duration="7520000" />
       <workItem from="1619870825230" duration="7140000" />
       <workItem from="1620475345317" duration="7654000" />
-      <workItem from="1621083855779" duration="1733000" />
+      <workItem from="1621083855779" duration="6473000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -528,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620482258595</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Adding homework solution. Datetime✅">
+      <created>1621085654299</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1621085654299</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +558,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding pillow theory" />
     <MESSAGE value="Adding first file for gui lesson" />
     <MESSAGE value="Adding infromation about textarea" />
     <MESSAGE value="Adding borders styles" />
@@ -572,7 +582,8 @@
     <MESSAGE value="Adding decorators" />
     <MESSAGE value="Adding decorators part2" />
     <MESSAGE value="Adding decorators part3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding decorators part3" />
+    <MESSAGE value="Adding homework solution. Datetime✅" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding homework solution. Datetime✅" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Saturday3pm$00_theory.coverage" NAME="00_theory Coverage Results" MODIFIED="1618662186906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1704_functions_2" />
@@ -590,6 +601,7 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$mastery.coverage" NAME="mastery Coverage Results" MODIFIED="1606572621534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
     <SUITE FILE_PATH="coverage/Saturday3pm$02_nested_functions.coverage" NAME="02_nested_functions Coverage Results" MODIFIED="1619873662209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0105_functions_deep" />
     <SUITE FILE_PATH="coverage/Saturday3pm$05_once_again_functions.coverage" NAME="05_once_again_functions Coverage Results" MODIFIED="1618661642895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1004_strings" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$04_reduce_function.coverage" NAME="04_reduce_function Coverage Results" MODIFIED="1621088947137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
     <SUITE FILE_PATH="coverage/Saturday3pm$working_with_files.coverage" NAME="working_with_files Coverage Results" MODIFIED="1608385044610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
     <SUITE FILE_PATH="coverage/Saturday3pm$mm.coverage" NAME="mm Coverage Results" MODIFIED="1603543919963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$01_json_example.coverage" NAME="01_json_example Coverage Results" MODIFIED="1616245689517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2003_json_lesson_2" />
@@ -606,6 +618,8 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$03_lambda_once_again.coverage" NAME="03_lambda_once_again Coverage Results" MODIFIED="1619873999681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0105_functions_deep" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1603546274026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$00_hw_solution.coverage" NAME="00_hw_solution Coverage Results" MODIFIED="1621085487871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$06_hash_function.coverage" NAME="06_hash_function Coverage Results" MODIFIED="1621090349618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$02_functional_vs_linear.coverage" NAME="02_functional_vs_linear Coverage Results" MODIFIED="1621087180274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
     <SUITE FILE_PATH="coverage/Saturday3pm$t_1_database_create.coverage" NAME="t_1_database_create Coverage Results" MODIFIED="1613224658800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1302" />
     <SUITE FILE_PATH="coverage/Saturday3pm$03_exchange_rates.coverage" NAME="03_exchange_rates Coverage Results" MODIFIED="1616248558350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2003_json_lesson_2" />
     <SUITE FILE_PATH="coverage/Saturday3pm$postal_form.coverage" NAME="postal_form Coverage Results" MODIFIED="1612612625108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1602" />
@@ -625,6 +639,7 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$task1__1_.coverage" NAME="task1 (1) Coverage Results" MODIFIED="1603545485243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$gui_less.coverage" NAME="gui_less Coverage Results" MODIFIED="1610800192900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$grid_method.coverage" NAME="grid_method Coverage Results" MODIFIED="1610804152443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1602" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$05_zip_function.coverage" NAME="05_zip_function Coverage Results" MODIFIED="1621090212871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
     <SUITE FILE_PATH="coverage/Saturday3pm$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1606572475458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
     <SUITE FILE_PATH="coverage/Saturday3pm$04_lambda_how_to.coverage" NAME="04_lambda_how_to Coverage Results" MODIFIED="1619875271733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0105_functions_deep" />
     <SUITE FILE_PATH="coverage/Saturday3pm$03_format_string.coverage" NAME="03_format_string Coverage Results" MODIFIED="1618060960033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1004_strings" />
@@ -638,6 +653,7 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$04_starts_end_with.coverage" NAME="04_starts_end_with Coverage Results" MODIFIED="1618061701593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1004_strings" />
     <SUITE FILE_PATH="coverage/Saturday3pm$frames_tkinter.coverage" NAME="frames_tkinter Coverage Results" MODIFIED="1610801981389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1602" />
     <SUITE FILE_PATH="coverage/Saturday3pm$02_api_meme_json.coverage" NAME="02_api_meme_json Coverage Results" MODIFIED="1616247883431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2003_json_lesson_2" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$03_filter_function.coverage" NAME="03_filter_function Coverage Results" MODIFIED="1621088192892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
     <SUITE FILE_PATH="coverage/Saturday3pm$01_functions_with_args.coverage" NAME="01_functions_with_args Coverage Results" MODIFIED="1620478313951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0805_function_p3_decorators" />
     <SUITE FILE_PATH="coverage/Saturday3pm$04_alg.coverage" NAME="04_alg Coverage Results" MODIFIED="1620482205661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0805_function_p3_decorators" />
     <SUITE FILE_PATH="coverage/Saturday3pm$stars.coverage" NAME="stars Coverage Results" MODIFIED="1607174532009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
@@ -645,5 +661,6 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$theory__1_.coverage" NAME="theory (1) Coverage Results" MODIFIED="1608383664361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l1912" />
     <SUITE FILE_PATH="coverage/Saturday3pm$01_strings_methods.coverage" NAME="01_strings_methods Coverage Results" MODIFIED="1618060534537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1004_strings" />
     <SUITE FILE_PATH="coverage/Saturday3pm$05_decorators_basic.coverage" NAME="05_decorators_basic Coverage Results" MODIFIED="1619877017012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0105_functions_deep" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$01_functional_programming.coverage" NAME="01_functional_programming Coverage Results" MODIFIED="1621086692774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1505_functions_p4" />
   </component>
 </project>
