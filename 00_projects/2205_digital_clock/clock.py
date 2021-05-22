@@ -29,10 +29,22 @@ def alarm():
     alarm_time = get_alarm_time_entry.get()
     alarm_time1, alarm_time2 = alarm_time.split()
     alarm_hour, alarm_minute = alarm_time1.split(':')
-    if 12 < int(alarm_hour) < 24:
-        main_hour = f'{str(int(alarm_hour) - 12)}'
+    main_time1, main_time2 = main_time.split()
+    main_hour, main_minute = main_time1.split(':')
+    if 12 < int(main_hour) < 24:
+        main_hour = f'{str(int(main_hour) - 12)}'
     else:
         main_hour = alarm_hour
+    if int(alarm_hour) == int(main_hour) and int(alarm_minute) == int(main_minute):
+        for i in range(3):
+            alarm_status.config(text='Пора вставать!')
+            if platform.system() == 'Windows':
+                winsound.Beep(5000, 1000)
+            elif platform.system() == 'Darwin':
+                os.system('say Time is up')
+                print('Вставай')
+            elif platform.system() == 'Linux':
+                os.system('beep -f 5000')
 
 root = Tk()
 root.title('Digital clock')  # название приложения (отображается в окошке наверху)
@@ -67,7 +79,7 @@ get_alarm_time_entry.pack(anchor='center')
 alarm_label = Label(alarm_tab, font='calibri 20 bold',
                     text='Укажите время подъема в формате:\n07:30 AM\nЧасы: 07, Минуты: 30')
 alarm_label.pack(anchor='s')
-alarm_btn = Button(alarm_tab, text='Завести будильник!', command='')
+alarm_btn = Button(alarm_tab, text='Завести будильник!', command=alarm)
 alarm_btn.pack(anchor='s')
 alarm_status = Label(alarm_tab, font='calibri 15 bold')
 alarm_status.pack(anchor='s')

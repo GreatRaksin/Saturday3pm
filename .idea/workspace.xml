@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding clock label🧠">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c3c1e692-8299-4dd2-a134-de40b60a0251" name="Default Changelist" comment="Adding new function for alarm👀">
       <change beforePath="$PROJECT_DIR$/00_projects/2205_digital_clock/clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_projects/2205_digital_clock/clock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +225,7 @@
       <workItem from="1619870825230" duration="7140000" />
       <workItem from="1620475345317" duration="7654000" />
       <workItem from="1621083855779" duration="6670000" />
-      <workItem from="1621685254552" duration="6243000" />
+      <workItem from="1621685254552" duration="6776000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code from previous lessons">
       <created>1607774821865</created>
@@ -564,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621688733246</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Adding new function for alarm👀">
+      <created>1621691580461</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1621691580461</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +589,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding grid_method.py" />
     <MESSAGE value="Starting template" />
     <MESSAGE value="Ending grid" />
     <MESSAGE value="Ending postal form code" />
@@ -608,7 +613,8 @@
     <MESSAGE value="Adding clock Project. Finishing Notebook pages" />
     <MESSAGE value="Adding beutiful time" />
     <MESSAGE value="Adding clock label" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding clock label" />
+    <MESSAGE value="Adding new function for alarm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new function for alarm" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Saturday3pm$exponent.coverage" NAME="exponent Coverage Results" MODIFIED="1606572475458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
@@ -663,7 +669,7 @@
     <SUITE FILE_PATH="coverage/Saturday3pm$01_dry_ideology.coverage" NAME="01_dry_ideology Coverage Results" MODIFIED="1618664150008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1704_functions_2" />
     <SUITE FILE_PATH="coverage/Saturday3pm$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1603546274026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2410" />
     <SUITE FILE_PATH="coverage/Saturday3pm$01_functions_with_args.coverage" NAME="01_functions_with_args Coverage Results" MODIFIED="1620478313951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0805_function_p3_decorators" />
-    <SUITE FILE_PATH="coverage/Saturday3pm$clock.coverage" NAME="clock Coverage Results" MODIFIED="1621691259533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00_projects/2205_digital_clock" />
+    <SUITE FILE_PATH="coverage/Saturday3pm$clock.coverage" NAME="clock Coverage Results" MODIFIED="1621692115624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00_projects/2205_digital_clock" />
     <SUITE FILE_PATH="coverage/Saturday3pm$membership.coverage" NAME="membership Coverage Results" MODIFIED="1606565466445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l2811" />
     <SUITE FILE_PATH="coverage/Saturday3pm$03_exchange_rates.coverage" NAME="03_exchange_rates Coverage Results" MODIFIED="1616248558350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2003_json_lesson_2" />
     <SUITE FILE_PATH="coverage/Saturday3pm$nested_loops.coverage" NAME="nested_loops Coverage Results" MODIFIED="1607173528170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/l0512" />
