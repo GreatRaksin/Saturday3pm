@@ -26,5 +26,15 @@ tabs_control.add(timer_tab, text='Таймер')
 tabs_control.pack(expand=1, fill='both')
 
 
+# Делаем часы
+time_label = Label(clock_tab, font='calibri 40 bold',
+                   foreground='green', background='black')
+# ^ привязываю лейбл к вкладке, настраиваю шрифт (40пт, жирный), указываю цвет текста, цвет фона
+time_label.pack(anchor='center')  # упаковать с привязкой к центру
+date_label = Label(clock_tab, font='calibri 40 bold',
+                   foreground='green', background='black')
+date_label.pack(anchor='s')  # опускался вниз
+
+
 if __name__ == "__main__":
     root.mainloop()
